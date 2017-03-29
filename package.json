@@ -1,0 +1,11 @@
+{
+  "name": "eslint-plugin-timjs-demo-linter",
+  "version": "1.0.0",
+  "description": "Eslint rule check no direct access to localStorage",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  }
+}
